@@ -1,0 +1,9 @@
+Agent,Time,Method,Resource,Version,Status
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML  like Gecko) Chrome/63.0.3239.84 Safari/537.36,2018-02-06T23:07:52.996Z,GET,/,HTTP/1.1,200
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML  like Gecko) Chrome/63.0.3239.84 Safari/537.36,2018-02-06T23:07:53.039Z,GET,/favicon.ico,HTTP/1.1,200
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML  like Gecko) Chrome/63.0.3239.84 Safari/537.36,2018-02-06T23:10:47.376Z,GET,/logs,HTTP/1.1,200
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5 Build/MRA58N) AppleWebKit/537.36(KHTML  like Gecko) Chrome/61.0.3116.0 Mobile Safari/537.36,2018-02-06T23:26:13.507Z,GET,/logs,HTTP/1.1,200
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5 Build/MRA58N) AppleWebKit/537.36(KHTML  like Gecko) Chrome/61.0.3116.0 Mobile Safari/537.36,2018-02-06T23:26:23.624Z,GET,/logs,HTTP/1.1,200
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML  like Gecko) Chrome/63.0.3239.84 Safari/537.36,2018-02-06T23:26:24.809Z,GET,/logs,HTTP/1.1,200
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML  like Gecko) Chrome/63.0.3239.84 Safari/537.36,2018-02-07T01:33:41.828Z,GET,/logs,HTTP/1.1,200
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML  like Gecko) Chrome/63.0.3239.84 Safari/537.36,2018-02-07T01:33:43.901Z,GET,/logs,HTTP/1.1,200
